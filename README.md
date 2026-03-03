@@ -1,6 +1,6 @@
 #kawserali-64
 <p align="center">
- <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub Banner" width="80%" />
+ <img src="https://raw.githubusercontent.com/kawserali-64/kawserali-64/refs/heads/main/Gemini_Generated_Image_bh217ebh217ebh21.png" alt="GitHub Banner" width="80%" />
 </p>
 
 <h1 align="center">
